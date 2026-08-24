@@ -2,10 +2,6 @@
 
 Spring boot backend of the airbnb clone
 
-[Video tutorial](https://youtu.be/XriUV06Hkow)
-
-[Angular Frontend](https://github.com/C0de-cake/airbnb-clone-frontend)
-
 ### Key Features:
 - 📅 Booking management for travelers
 - 🏠 Landlord reservation management
